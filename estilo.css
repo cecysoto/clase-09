@@ -118,7 +118,7 @@ dl dd {
 ul li, ol li {
     list-style-position: outside;
     margin-bottom: 0.3rem;
-    color: #FFC30F
+    color: #FF0000;
 }
 
 ul li:last-of-type, ol li:last-of-type {
@@ -204,6 +204,7 @@ table tfoot a:hover, figure figcaption a:hover {
 footer {
     padding-top:2rem;
     font-size: 90%;
+    
 }
 
 blockquote footer{
