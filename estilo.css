@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200&family=Oswald&family=Ubuntu+Mono:wght@400;700&family=Vidaloka&display=swap');
+
+
 html, body {
     margin: 0;
     padding: 0;
@@ -24,7 +27,7 @@ a, em, strong {
 }
 
 h1 {
-    font-family: Georgia, serif;
+    font-family:'Vidaloka', serif;
     color: #6d2b65;
 }
 
@@ -37,6 +40,7 @@ h1 a:hover {
 }
 
 h2, h3, h4, h5, h6 {
+    font-family:'Oswald', sans-serif;
     color:#020e49;
 }
 
@@ -143,7 +147,7 @@ figure figcaption {
 table {
     border-collapse: collapse;
     width: 100%;
-    font-family: 'Lucida Console', Monaco, monospace;
+    font-family: 'Ubuntu Mono', monospace;
     font-weight: 300;
     font-size: 90%;
     text-align: center;
