@@ -187,17 +187,17 @@ table tbody tr th {
 table tfoot {
     font-size: 80%;
     text-align: center;
-    color: #aaa;
+    color: #FFFFFF;
 }
 
 table tfoot a, figure figcaption a {
-    color: #999;
+    color: #FFFFFF;
     font-weight: 400;
     text-decoration: none;
 }
 
 table tfoot a:hover, figure figcaption a:hover {
-    color: #888;
+    color: #FFFFFF;
     text-decoration: underline;
 }
 
